@@ -14,16 +14,16 @@ This project aims to predict the quality of wine based on various physicochemica
 The project requires the following Python libraries: numpy, matplotlib, pandas, seaborn, and warnings. You can install these using pip:
 
 ```bash
-pip install numpy matplotlib pandas seaborn
+pip install numpy matplotlib pandas seaborn jupyter
 ```
 
 # Usage
 After installing the necessary libraries, you can clone this repository and run the main script:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-python main.py
+https://github.com/kunalPisolkar24/wineQualityPrediction.git
+cd wineQualityPrediction
+jupyter Wine_Quality.ipynb
 ```
 
 
